@@ -1,0 +1,10 @@
+# Genesis Conductor Platform CODEOWNERS
+# Global ownership for all paths
+*       @igor-holt
+
+# Core scripts and DSCP / Grok ingestion
+scripts/ @igor-holt
+docs/    @igor-holt
+
+# CI / GitHub configuration
+.github/ @igor-holt
